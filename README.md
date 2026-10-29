@@ -51,8 +51,8 @@ This portfolio is a work in progress. I will continue updating it as I build pro
 
 - **LinkedIn:** https://www.linkedin.com/anamikana18/
 - **GitHub:** https://www.github.com/Anamikaa18/
-- **Portfolio Website:** [Add your deployed website URL]
-- **Email:** [Add your professional email]
+- **Portfolio Website:** ---
+- **Email:** anamikana18@gmail.com
 
 ---
 
