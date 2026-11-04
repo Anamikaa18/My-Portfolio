@@ -1,4 +1,3 @@
-
 ---
 title: Caching Strategies for Scalable Applications
 description: Understanding caching fundamentals and practical strategies for improving application performance while managing consistency and invalidation.

@@ -1,4 +1,3 @@
-
 ---
 title: SQL Joins Explained: Connecting Data Across Tables
 description: A practical guide to SQL joins covering INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN, self joins and common querying mistakes.

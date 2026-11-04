@@ -1,4 +1,3 @@
-
 ---
 title: What Does an AI Engineer Actually Build?
 description: Understanding the engineering discipline behind intelligent applications, from problem formulation and model selection to integration, evaluation and deployment.

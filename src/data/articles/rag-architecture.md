@@ -1,4 +1,3 @@
-
 ---
 title: Retrieval-Augmented Generation: Architecture and Workflow
 description: A technical exploration of RAG architecture including document ingestion, chunking, embeddings, vector retrieval, context construction and response generation.

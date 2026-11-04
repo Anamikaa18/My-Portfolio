@@ -1,4 +1,3 @@
-
 ---
 title: From Research Papers to Practical Implementations
 description: A systematic approach to understanding technical research and translating published ideas into reproducible experiments and practical software implementations.

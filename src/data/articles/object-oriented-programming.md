@@ -1,4 +1,3 @@
-
 ---
 title: Object-Oriented Programming Through Practical Examples
 description: Understanding classes, objects, encapsulation, inheritance, polymorphism and abstraction through practical Python examples.

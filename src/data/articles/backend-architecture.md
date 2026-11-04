@@ -1,4 +1,3 @@
-
 ---
 title: Anatomy of a Backend Application
 description: Understanding backend architecture through APIs, application logic, services, databases, authentication, validation and error handling.
