@@ -1,7 +1,7 @@
 
 // Personal profile and professional information
 export const profile = {
-  name: 'Anamika',
+  name: 'Anamika Verma',
 
   title: 'AI Engineer | Applied AI & Software Development',
 
