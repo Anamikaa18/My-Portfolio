@@ -8,7 +8,7 @@ import Contact from '../components/Contact.jsx'
 import { usePage } from '../lib/usePage.js'
 
 export default function Home() {
-  usePage('', 'Anamika, AI Engineer and Software Developer. Projects and writing on AI systems, backend engineering and applied research.')
+  usePage('', 'Anamika, Applied AI Engineer and Software Developer. Projects and writing on applied AI, backend engineering and research.')
   const featured = projects.filter((p) => p.featured).slice(0, 3)
   return (
     <div className="wrap">

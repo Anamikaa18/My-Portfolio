@@ -1,9 +1,14 @@
+
 import { profile } from '../data/profile.js'
 import Contact from '../components/Contact.jsx'
 import { usePage } from '../lib/usePage.js'
 
 export default function About() {
-  usePage('About', 'About Anamika: education, areas of interest and technical capabilities in AI engineering and software development.')
+  usePage(
+    'About',
+    'Learn about Anamika, an AI Engineer focused on applied AI, machine learning, AI research, software engineering, and building intelligent applications.'
+  )
+
   return (
     <div className="wrap narrow">
       <h1 className="page-title">About</h1>
