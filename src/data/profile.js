@@ -17,7 +17,7 @@ export const profile = {
 
   linkedin: 'https://www.linkedin.com/in/anamikana18/',
 
-  resume: `${import.meta.env.BASE_URL}resume.pdf`,
+  resume: `${import.meta.env.BASE_URL}anamika_ai_engineer_resume.pdf`,
 
   about: [
     "I'm an AI Engineer interested in building practical intelligent applications and understanding the engineering behind AI systems. My interests span applied AI, machine learning, software architecture, and the integration of AI into real-world products.",
