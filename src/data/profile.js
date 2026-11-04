@@ -15,7 +15,7 @@ export const profile = {
 
   github: 'https://github.com/anamikaa18',
 
-  linkedin: 'https://www.linkedin.com/in/anamika18/',
+  linkedin: 'https://www.linkedin.com/in/anamikana18/',
 
   resume: `${import.meta.env.BASE_URL}resume.pdf`,
 
