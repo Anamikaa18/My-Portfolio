@@ -24,7 +24,6 @@ export const profile = {
     "I'm an AI Engineer interested in building practical intelligent applications and understanding the engineering behind AI systems. My interests span applied AI, machine learning, software architecture, and the integration of AI into real-world products.",
 
     'My professional experience combines AI research, software development, technical integrations, and working with different modules of an ERP and learning management product. I enjoy exploring new technologies, experimenting with ideas, and translating technical requirements into working solutions,',
-
     'Alongside engineering, I have experience in AI education and technical knowledge-sharing. Teaching and research have shaped how I approach complex problems: understand the fundamentals, experiment with different approaches, and communicate technical ideas clearly.'
   ],
 

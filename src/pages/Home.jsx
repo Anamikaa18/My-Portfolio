@@ -8,7 +8,7 @@ import Contact from '../components/Contact.jsx'
 import { usePage } from '../lib/usePage.js'
 
 export default function Home() {
-  usePage('', 'Anamika, Applied AI Engineer and Software Developer. Projects and writing on applied AI, backend engineering and research.')
+  usePage('', 'Anamika Verma, Applied AI Engineer and Software Developer. Projects and writing on applied AI, backend engineering and research.')
   const featured = projects.filter((p) => p.featured).slice(0, 3)
   return (
     <div className="wrap">
@@ -25,6 +25,8 @@ export default function Home() {
           <a href={profile.github} target="_blank" rel="noreferrer">GitHub</a>
           <a href={profile.linkedin} target="_blank" rel="noreferrer">LinkedIn</a>
           <a href={profile.resume} download>Resume</a>
+          <a href={profile.coverLetter} target="_blank" rel="noopener noreferrer">
+  View Cover Letter</a>
         </p>
       </section>
 
