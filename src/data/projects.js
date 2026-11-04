@@ -21,12 +21,7 @@ export const projects = [
       'Finding specific information in lengthy documents can be time-consuming. This project explores how retrieval-augmented generation can make document-based information access faster and more intuitive.',
     architecture:
       'A document-processing and retrieval workflow that connects document content with an AI-powered question-answering interface.',
-    stack: [
-      'Python',
-      'RAG',
-      'LLMs',
-      'Vector Search',
-    ],
+    stack: ['Python', 'RAG', 'LLMs', 'Vector Search'],
     decisions: [
       'Designed around document-based question answering.',
       'Focused on retrieving relevant context before generating answers.',
@@ -142,6 +137,94 @@ export const projects = [
     ],
     repo: '',
     demo: '',
+    images: [],
+  },
+
+  // FULL-STACK APPLICATIONS
+  {
+    slug: 'freelance-web-development',
+    name: 'Freelance Web Development & Digital Solutions',
+    category: 'Full-Stack Applications',
+    featured: true,
+    status: 'Professional Experience',
+    summary:
+      'Freelance website development and digital solution work for local businesses and online clients, translating client requirements into practical web experiences.',
+    problem:
+      'Businesses and individual clients need accessible online solutions that communicate their services and provide a useful experience to visitors.',
+    architecture:
+      'Client-oriented web development involving requirement understanding, interface development, implementation, testing, and delivery.',
+    stack: [
+      'Web Development',
+      'Frontend Development',
+      'Website Design',
+      'Client Requirements',
+    ],
+    decisions: [
+      'Focused on understanding client needs before implementation.',
+      'Considered usability and responsive presentation.',
+      'Worked on practical digital solutions for different client requirements.',
+    ],
+    repo: '',
+    demo: '',
+    images: [],
+  },
+
+  // AUTOMATION & DEVELOPER TOOLS
+  {
+    slug: 'python-workflow-automation',
+    name: 'Python Workflow Automation Toolkit',
+    category: 'Automation & Developer Tools',
+    featured: false,
+    status: 'Planned',
+    summary:
+      'A planned collection of Python utilities for automating repetitive data-processing, file-management, and everyday development tasks.',
+    problem:
+      'Repeated manual operations can consume time and introduce avoidable errors. Small, reusable automation tools can make routine workflows more consistent.',
+    architecture:
+      'A modular collection of scripts with input validation, reusable functions, structured data handling, and error management.',
+    stack: [
+      'Python',
+      'File Handling',
+      'CSV & Excel Processing',
+      'Automation',
+    ],
+    decisions: [
+      'Prioritized practical and reusable automation tasks.',
+      'Planned clear input validation and error handling.',
+      'Designed the toolkit to support independent utilities.',
+    ],
+    repo: '',
+    demo: '',
+    images: [],
+  },
+
+  // RESEARCH & EXPERIMENTS
+  {
+    slug: 'ai-counsellor-research',
+    name: 'AI-Counsellor Using Emerging Technique',
+    category: 'Research & Experiments',
+    featured: true,
+    status: 'Published Research',
+    summary:
+      'A published research paper exploring an AI-based counselling chatbot using emerging techniques in conversational AI and natural language processing.',
+    problem:
+      'Conversational systems need to interpret user messages and identify sentiment, intent, and relevant entities to generate meaningful responses.',
+    architecture:
+      'The research explores a conversational AI approach involving sentiment analysis, intent recognition, and entity recognition for an AI counselling chatbot.',
+    stack: [
+      'Artificial Intelligence',
+      'Machine Learning',
+      'Natural Language Processing',
+      'Sentiment Analysis',
+      'Chatbots',
+    ],
+    decisions: [
+      'Explored AI techniques for conversational interaction.',
+      'Examined sentiment and intent recognition in user messages.',
+      'Studied entity recognition as part of conversational understanding.',
+    ],
+    repo: '',
+    demo: 'https://ijsrst.com/index.php/home/article/view/IJSRST24113237',
     images: [],
   },
 ]
